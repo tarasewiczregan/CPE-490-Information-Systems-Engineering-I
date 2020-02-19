@@ -1,0 +1,935 @@
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  0.943 ms  1.011 ms  0.990 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  12.763 ms  13.440 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  14.012 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  13.957 ms  13.047 ms  13.416 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  14.125 ms  10.020 ms  10.612 ms
+ 8  po104.psw02.lga3.tfbnw.net (157.240.47.29)  9.051 ms  8.773 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  7.742 ms
+ 9  173.252.67.39 (173.252.67.39)  7.440 ms 173.252.67.175 (173.252.67.175)  7.264 ms 173.252.67.3 (173.252.67.3)  14.933 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  17.621 ms  14.871 ms  17.038 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  2.032 ms  2.024 ms  2.059 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  13.765 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  14.850 ms  14.039 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  13.608 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  9.827 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  9.758 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  13.638 ms  10.327 ms  9.169 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  8.024 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  8.805 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  8.398 ms
+ 9  173.252.67.183 (173.252.67.183)  6.391 ms 173.252.67.73 (173.252.67.73)  11.975 ms 173.252.67.79 (173.252.67.79)  8.181 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  15.160 ms  15.089 ms  14.115 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.243 ms  2.027 ms  2.139 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  13.650 ms  6.298 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  6.670 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  15.543 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  17.409 ms  17.279 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  16.346 ms  12.115 ms  9.548 ms
+ 8  po104.psw04.lga3.tfbnw.net (157.240.47.33)  10.649 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  8.911 ms  7.161 ms
+ 9  173.252.67.97 (173.252.67.97)  26.900 ms 173.252.67.193 (173.252.67.193)  26.819 ms 173.252.67.173 (173.252.67.173)  25.986 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  25.936 ms  21.800 ms  21.056 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  2.865 ms  2.907 ms  2.878 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  12.844 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  10.041 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  11.272 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  12.017 ms  8.216 ms  8.847 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  20.899 ms  15.811 ms  10.983 ms
+ 8  po104.psw01.lga3.tfbnw.net (157.240.47.27)  9.275 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  8.770 ms  8.813 ms
+ 9  173.252.67.191 (173.252.67.191)  8.997 ms 173.252.67.67 (173.252.67.67)  15.095 ms 173.252.67.41 (173.252.67.41)  13.361 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  13.505 ms  14.845 ms  13.124 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  2.428 ms  2.337 ms  2.284 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  16.730 ms  20.381 ms  16.624 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  16.199 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  11.327 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  12.601 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  12.560 ms  10.380 ms  10.421 ms
+ 8  po104.psw04.lga3.tfbnw.net (157.240.47.33)  15.129 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  15.076 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  15.028 ms
+ 9  173.252.67.13 (173.252.67.13)  14.915 ms 173.252.67.65 (173.252.67.65)  9.710 ms 173.252.67.161 (173.252.67.161)  13.112 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  11.680 ms  7.895 ms  14.514 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  2.161 ms  2.092 ms  3.060 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  9.858 ms  6.933 ms  8.914 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  15.163 ms  12.652 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  13.071 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  15.002 ms  10.171 ms  8.959 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  15.445 ms  8.937 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  10.380 ms
+ 9  173.252.67.63 (173.252.67.63)  7.716 ms 173.252.67.167 (173.252.67.167)  7.911 ms 173.252.67.37 (173.252.67.37)  13.465 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  13.149 ms  7.331 ms  7.990 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  2.233 ms  2.179 ms  2.173 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  9.253 ms  10.739 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  11.010 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  18.364 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  15.462 ms  15.005 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  17.621 ms  11.652 ms  10.171 ms
+ 8  po104.psw02.lga3.tfbnw.net (157.240.47.29)  9.847 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  8.586 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  7.695 ms
+ 9  173.252.67.23 (173.252.67.23)  7.835 ms 173.252.67.3 (173.252.67.3)  12.080 ms 173.252.67.143 (173.252.67.143)  13.299 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  14.388 ms  14.358 ms  9.047 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  14.985 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  6.149 ms  13.732 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  15.679 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  10.590 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  10.244 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  9.944 ms  13.566 ms  37.100 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  6.776 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  7.937 ms  10.647 ms
+ 9  173.252.67.127 (173.252.67.127)  9.022 ms 173.252.67.21 (173.252.67.21)  7.766 ms 173.252.67.151 (173.252.67.151)  6.191 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  13.688 ms  13.753 ms  8.616 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.212 ms  1.732 ms  1.796 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  11.279 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  10.876 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  12.930 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  17.363 ms  8.064 ms  7.881 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  10.495 ms  8.716 ms  9.106 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  13.576 ms  8.773 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  8.876 ms
+ 9  173.252.67.21 (173.252.67.21)  9.545 ms 173.252.67.201 (173.252.67.201)  14.612 ms 173.252.67.75 (173.252.67.75)  12.720 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  12.394 ms  15.463 ms  15.358 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.437 ms  1.386 ms  1.349 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  15.263 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  14.354 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  12.698 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  12.693 ms  10.033 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  9.918 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  35.165 ms  9.835 ms  10.063 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  8.004 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  7.954 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  13.327 ms
+ 9  173.252.67.25 (173.252.67.25)  11.795 ms 173.252.67.43 (173.252.67.43)  7.376 ms 173.252.67.61 (173.252.67.61)  7.605 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  13.551 ms  12.524 ms  8.912 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  0.971 ms  0.970 ms  0.941 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  9.946 ms  16.104 ms  10.052 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  12.573 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  11.700 ms  12.443 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  13.507 ms  12.848 ms  12.852 ms
+ 8  po104.psw01.lga3.tfbnw.net (157.240.47.27)  8.983 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  6.411 ms  13.279 ms
+ 9  173.252.67.99 (173.252.67.99)  14.250 ms 173.252.67.157 (173.252.67.157)  11.605 ms 173.252.67.137 (173.252.67.137)  7.512 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  7.657 ms  14.391 ms  13.970 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  2.695 ms  3.154 ms  3.257 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  13.709 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  18.659 ms  17.592 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  17.302 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  13.839 ms  13.673 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  13.815 ms  19.933 ms  8.395 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  7.421 ms  7.141 ms  15.743 ms
+ 9  173.252.67.121 (173.252.67.121)  15.667 ms 173.252.67.107 (173.252.67.107)  14.947 ms 173.252.67.121 (173.252.67.121)  8.468 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  8.269 ms  14.682 ms  6.964 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.103 ms  2.238 ms  2.255 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  13.196 ms  13.171 ms  8.928 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  17.621 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  16.766 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  15.478 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  17.515 ms  11.000 ms  14.444 ms
+ 8  po104.psw01.lga3.tfbnw.net (157.240.47.27)  14.103 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  9.458 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  9.307 ms
+ 9  173.252.67.139 (173.252.67.139)  8.395 ms 173.252.67.53 (173.252.67.53)  13.651 ms 173.252.67.41 (173.252.67.41)  13.525 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  13.154 ms  14.024 ms  14.590 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  2.208 ms  2.142 ms  2.097 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  11.897 ms  18.657 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  16.085 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  15.823 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  12.786 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  11.864 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  13.572 ms  12.111 ms  8.999 ms
+ 8  po104.psw02.lga3.tfbnw.net (157.240.47.29)  8.940 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  7.078 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  7.239 ms
+ 9  173.252.67.43 (173.252.67.43)  7.889 ms 173.252.67.171 (173.252.67.171)  12.315 ms 173.252.67.29 (173.252.67.29)  8.267 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  8.233 ms  7.530 ms  14.175 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  2.624 ms  2.570 ms  3.489 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  7.088 ms  14.249 ms  14.535 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  16.797 ms  13.215 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  13.433 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  19.094 ms  55.773 ms  34.811 ms
+ 8  po104.psw04.lga3.tfbnw.net (157.240.47.33)  11.411 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  16.910 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  16.423 ms
+ 9  173.252.67.197 (173.252.67.197)  16.078 ms 173.252.67.53 (173.252.67.53)  10.223 ms 173.252.67.161 (173.252.67.161)  7.640 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  6.140 ms  14.773 ms  14.488 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  3.697 ms  3.669 ms  3.650 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  9.427 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  8.727 ms  14.517 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  18.027 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  12.090 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  12.710 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  18.107 ms  13.068 ms  8.760 ms
+ 8  po104.psw02.lga3.tfbnw.net (157.240.47.29)  12.494 ms  8.562 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  7.456 ms
+ 9  173.252.67.5 (173.252.67.5)  8.453 ms 173.252.67.147 (173.252.67.147)  7.713 ms 173.252.67.167 (173.252.67.167)  10.919 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  10.239 ms  8.428 ms  7.117 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  3.387 ms  3.347 ms  3.470 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  9.342 ms  6.304 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  10.554 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  16.059 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  12.814 ms  12.739 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  15.344 ms  13.825 ms  7.975 ms
+ 8  po104.psw04.lga3.tfbnw.net (157.240.47.33)  7.080 ms  7.905 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  7.275 ms
+ 9  173.252.67.167 (173.252.67.167)  15.654 ms 173.252.67.5 (173.252.67.5)  15.478 ms 173.252.67.39 (173.252.67.39)  15.117 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  13.110 ms  12.776 ms  8.646 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  4.018 ms  3.937 ms  4.115 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  19.699 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  22.233 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  22.211 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  19.278 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  17.014 ms  16.935 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  16.823 ms  16.325 ms  16.257 ms
+ 8  po104.psw01.lga3.tfbnw.net (157.240.47.27)  13.738 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  13.623 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  13.613 ms
+ 9  173.252.67.19 (173.252.67.19)  13.520 ms 173.252.67.121 (173.252.67.121)  13.472 ms 173.252.67.55 (173.252.67.55)  147.355 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  147.263 ms  147.199 ms  147.201 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  * Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  4.152 ms  5.401 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  17.383 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  21.639 ms  17.086 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  19.552 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  14.681 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  13.842 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  12.275 ms  11.607 ms  11.184 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  7.022 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  7.349 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  8.791 ms
+ 9  173.252.67.193 (173.252.67.193)  11.877 ms 173.252.67.43 (173.252.67.43)  9.206 ms 173.252.67.139 (173.252.67.139)  7.798 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  13.651 ms  14.239 ms  13.202 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.104 ms  2.592 ms  2.555 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  11.627 ms  9.641 ms  11.556 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  11.260 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  8.866 ms  8.053 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  17.956 ms  10.371 ms  8.429 ms
+ 8  po104.psw04.lga3.tfbnw.net (157.240.47.33)  9.989 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  9.179 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  9.112 ms
+ 9  173.252.67.193 (173.252.67.193)  6.862 ms 173.252.67.97 (173.252.67.97)  8.189 ms 173.252.67.95 (173.252.67.95)  8.470 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  14.817 ms  14.078 ms  14.641 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  2.624 ms  5.264 ms  5.215 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  12.979 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  13.282 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  8.097 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  16.851 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  26.127 ms  25.996 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  32.053 ms  28.929 ms  14.507 ms
+ 8  po104.psw02.lga3.tfbnw.net (157.240.47.29)  14.150 ms  10.214 ms  14.238 ms
+ 9  173.252.67.107 (173.252.67.107)  14.201 ms 173.252.67.65 (173.252.67.65)  14.134 ms 173.252.67.117 (173.252.67.117)  12.163 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  10.752 ms  11.277 ms  11.504 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.648 ms  1.584 ms  1.527 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  15.189 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  14.183 ms  13.198 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  11.795 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  9.331 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  8.982 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  11.197 ms  8.324 ms  8.202 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  8.044 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  15.451 ms  13.089 ms
+ 9  173.252.67.135 (173.252.67.135)  13.602 ms 173.252.67.5 (173.252.67.5)  12.428 ms 173.252.67.85 (173.252.67.85)  7.277 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  15.671 ms  15.586 ms  9.104 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.267 ms  1.306 ms  1.273 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  15.688 ms  13.251 ms  11.178 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  14.621 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  9.612 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  11.933 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  11.866 ms  11.469 ms  10.034 ms
+ 8  po104.psw02.lga3.tfbnw.net (157.240.47.29)  15.156 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  13.064 ms  12.123 ms
+ 9  173.252.67.125 (173.252.67.125)  14.096 ms  13.762 ms 173.252.67.15 (173.252.67.15)  14.338 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  13.434 ms  8.025 ms  8.369 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  0.955 ms  0.987 ms  1.807 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  10.933 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  11.264 ms  12.145 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  20.232 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  19.306 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  19.172 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  43.927 ms  34.793 ms  10.059 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  8.770 ms  8.025 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  7.337 ms
+ 9  173.252.67.149 (173.252.67.149)  15.541 ms 173.252.67.201 (173.252.67.201)  14.448 ms 173.252.67.179 (173.252.67.179)  14.873 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  7.239 ms  7.634 ms  6.846 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  0.942 ms  0.940 ms  1.240 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  13.784 ms  13.768 ms  13.736 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  18.874 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  18.718 ms  18.639 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  18.761 ms  43.147 ms  15.519 ms
+ 8  po104.psw02.lga3.tfbnw.net (157.240.47.29)  13.788 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  8.257 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  6.411 ms
+ 9  173.252.67.15 (173.252.67.15)  7.439 ms 173.252.67.79 (173.252.67.79)  13.814 ms 173.252.67.97 (173.252.67.97)  6.722 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  16.397 ms  15.842 ms  13.723 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.206 ms  2.365 ms  2.360 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  16.505 ms  16.735 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  9.549 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  11.408 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  18.017 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  18.138 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  22.134 ms  11.173 ms  8.554 ms
+ 8  po104.psw01.lga3.tfbnw.net (157.240.47.27)  10.857 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  10.033 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  7.672 ms
+ 9  173.252.67.79 (173.252.67.79)  6.682 ms 173.252.67.149 (173.252.67.149)  14.248 ms 173.252.67.41 (173.252.67.41)  12.557 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  10.877 ms  7.291 ms  7.912 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.051 ms  2.027 ms  2.083 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  7.654 ms  8.989 ms  8.962 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  10.354 ms  8.868 ms  8.692 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  21.784 ms  16.307 ms  14.975 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  9.536 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  8.904 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  7.360 ms
+ 9  173.252.67.3 (173.252.67.3)  14.988 ms 173.252.67.175 (173.252.67.175)  8.143 ms 173.252.67.157 (173.252.67.157)  7.911 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  6.678 ms  10.020 ms  9.402 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  0.931 ms  1.712 ms  2.852 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  16.847 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  16.099 ms  16.771 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  16.608 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  15.216 ms  15.113 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  13.985 ms  60.868 ms  16.746 ms
+ 8  po104.psw01.lga3.tfbnw.net (157.240.47.27)  12.687 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  20.355 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  23.539 ms
+ 9  173.252.67.99 (173.252.67.99)  20.273 ms 173.252.67.55 (173.252.67.55)  20.287 ms 173.252.67.91 (173.252.67.91)  16.043 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  12.107 ms  36.878 ms  37.389 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  * Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  2.828 ms  2.800 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  12.426 ms  12.683 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  15.363 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  12.547 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  10.419 ms  10.317 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  10.588 ms  23.224 ms  15.819 ms
+ 8  po104.psw01.lga3.tfbnw.net (157.240.47.27)  14.912 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  16.105 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  13.699 ms
+ 9  173.252.67.141 (173.252.67.141)  11.902 ms 173.252.67.99 (173.252.67.99)  12.130 ms 173.252.67.201 (173.252.67.201)  9.279 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  7.378 ms  7.133 ms  13.754 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.015 ms  1.336 ms  2.115 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  12.875 ms  13.140 ms  12.058 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  17.040 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  15.598 ms  16.142 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  17.668 ms  14.964 ms  13.255 ms
+ 8  po104.psw02.lga3.tfbnw.net (157.240.47.29)  12.709 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  8.977 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  8.105 ms
+ 9  173.252.67.145 (173.252.67.145)  7.641 ms 173.252.67.13 (173.252.67.13)  12.933 ms 173.252.67.29 (173.252.67.29)  7.670 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  8.000 ms  14.038 ms  14.359 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.043 ms  1.739 ms  1.717 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  13.759 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  13.326 ms  19.708 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  15.598 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  12.945 ms  12.983 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  15.333 ms  12.089 ms  11.737 ms
+ 8  po104.psw02.lga3.tfbnw.net (157.240.47.29)  10.521 ms  10.379 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  15.821 ms
+ 9  173.252.67.15 (173.252.67.15)  13.455 ms 173.252.67.5 (173.252.67.5)  11.155 ms 173.252.67.55 (173.252.67.55)  13.530 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  13.445 ms  14.346 ms  13.274 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.069 ms  1.311 ms  2.193 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  17.054 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  18.351 ms  11.469 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  14.541 ms  18.925 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  13.266 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  14.558 ms  14.806 ms  9.851 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  8.472 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  13.844 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  16.448 ms
+ 9  173.252.67.15 (173.252.67.15)  15.187 ms 173.252.67.131 (173.252.67.131)  9.361 ms 173.252.67.181 (173.252.67.181)  13.694 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  12.711 ms  13.340 ms  14.786 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.057 ms  1.209 ms  2.143 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  14.866 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  13.584 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  18.084 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  14.818 ms  12.973 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  14.523 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  14.497 ms  12.564 ms  16.696 ms
+ 8  po104.psw02.lga3.tfbnw.net (157.240.47.29)  15.502 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  18.179 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  16.528 ms
+ 9  173.252.67.99 (173.252.67.99)  13.376 ms 173.252.67.33 (173.252.67.33)  20.182 ms 173.252.67.179 (173.252.67.179)  12.646 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  8.190 ms  6.933 ms  15.496 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.093 ms  1.639 ms  1.855 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  12.229 ms  14.532 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  22.292 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  22.010 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  20.187 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  19.966 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  22.029 ms  38.754 ms  36.108 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  8.157 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  9.265 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  8.940 ms
+ 9  173.252.67.93 (173.252.67.93)  8.880 ms 173.252.67.95 (173.252.67.95)  7.736 ms 173.252.67.189 (173.252.67.189)  8.385 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  6.969 ms  7.234 ms  14.216 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.940 ms  1.891 ms  3.070 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  19.620 ms  18.968 ms  18.530 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  26.142 ms  23.169 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  23.091 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  23.411 ms  7.856 ms  56.525 ms
+ 8  po104.psw04.lga3.tfbnw.net (157.240.47.33)  14.519 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  24.051 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  23.932 ms
+ 9  173.252.67.31 (173.252.67.31)  23.907 ms 173.252.67.199 (173.252.67.199)  23.818 ms 173.252.67.139 (173.252.67.139)  23.762 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  16.210 ms  16.908 ms  16.867 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  3.143 ms  3.097 ms  3.062 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  50.110 ms  50.069 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  50.016 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  49.800 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  43.596 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  24.308 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  24.302 ms  33.241 ms  24.145 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  24.102 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  20.967 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  16.987 ms
+ 9  173.252.67.35 (173.252.67.35)  13.903 ms 173.252.67.75 (173.252.67.75)  18.992 ms 173.252.67.179 (173.252.67.179)  18.957 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  18.907 ms  23.482 ms  18.520 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.512 ms  1.444 ms  2.318 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  11.341 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  11.335 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  12.780 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  30.541 ms  28.894 ms  28.785 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  45.714 ms  37.221 ms  44.468 ms
+ 8  po104.psw04.lga3.tfbnw.net (157.240.47.33)  7.247 ms  9.035 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  13.814 ms
+ 9  173.252.67.201 (173.252.67.201)  14.255 ms 173.252.67.85 (173.252.67.85)  11.877 ms 173.252.67.127 (173.252.67.127)  12.383 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  9.264 ms  9.046 ms  15.620 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.384 ms  1.350 ms  2.424 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  12.062 ms  15.172 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  9.604 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  20.911 ms  18.844 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  18.050 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  18.567 ms  14.116 ms  11.703 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  13.410 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  8.577 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  6.716 ms
+ 9  173.252.67.137 (173.252.67.137)  6.738 ms 173.252.67.147 (173.252.67.147)  14.214 ms 173.252.67.87 (173.252.67.87)  13.388 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  13.157 ms  9.185 ms  9.047 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.847 ms  1.787 ms  2.481 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  19.643 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  19.546 ms  19.545 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  19.264 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  19.444 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  19.319 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  19.268 ms  11.153 ms  9.340 ms
+ 8  po104.psw02.lga3.tfbnw.net (157.240.47.29)  19.457 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  16.673 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  16.794 ms
+ 9  173.252.67.39 (173.252.67.39)  16.400 ms 173.252.67.77 (173.252.67.77)  16.400 ms 173.252.67.113 (173.252.67.113)  7.289 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  13.989 ms  8.204 ms  8.164 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.465 ms  1.414 ms  2.307 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  14.324 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  14.246 ms  9.053 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  20.159 ms  17.722 ms  17.458 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  20.009 ms  11.453 ms  13.869 ms
+ 8  po104.psw02.lga3.tfbnw.net (157.240.47.29)  15.328 ms  7.383 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  7.936 ms
+ 9  173.252.67.29 (173.252.67.29)  15.398 ms 173.252.67.71 (173.252.67.71)  14.764 ms 173.252.67.39 (173.252.67.39)  12.596 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  7.216 ms  6.583 ms  14.614 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.109 ms  3.320 ms  4.363 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  17.428 ms  17.399 ms  17.368 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  17.354 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  14.912 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  14.367 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  22.475 ms  9.303 ms  37.950 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  7.681 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  7.549 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  14.957 ms
+ 9  173.252.67.19 (173.252.67.19)  15.793 ms 173.252.67.195 (173.252.67.195)  8.354 ms 173.252.67.117 (173.252.67.117)  6.401 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  13.246 ms  13.202 ms  8.162 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.131 ms  1.124 ms  1.944 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  12.419 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  10.315 ms  10.389 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  18.838 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  15.494 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  15.939 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  26.731 ms  15.977 ms  15.786 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  13.940 ms  8.431 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  8.237 ms
+ 9  173.252.67.3 (173.252.67.3)  7.185 ms 173.252.67.193 (173.252.67.193)  7.163 ms 173.252.67.105 (173.252.67.105)  14.923 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  14.235 ms  14.176 ms  15.249 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.347 ms  1.297 ms  1.922 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  9.212 ms  9.473 ms  11.369 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  18.690 ms  16.315 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  15.606 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  16.713 ms  12.515 ms  12.510 ms
+ 8  po104.psw04.lga3.tfbnw.net (157.240.47.33)  7.216 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  8.064 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  8.819 ms
+ 9  173.252.67.1 (173.252.67.1)  8.520 ms 173.252.67.29 (173.252.67.29)  7.333 ms 173.252.67.81 (173.252.67.81)  14.339 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  12.014 ms  12.532 ms  7.209 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.275 ms  1.241 ms  1.530 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  9.141 ms  9.493 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  7.557 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  18.968 ms  16.716 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  16.025 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  18.660 ms  11.720 ms  11.661 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  9.641 ms  8.111 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  8.614 ms
+ 9  173.252.67.97 (173.252.67.97)  15.990 ms 173.252.67.181 (173.252.67.181)  15.942 ms 173.252.67.183 (173.252.67.183)  15.832 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  16.496 ms  14.044 ms  10.654 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.126 ms  1.250 ms  3.094 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  9.554 ms  11.120 ms  11.341 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  19.754 ms  17.685 ms  17.355 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  17.372 ms  23.843 ms  22.352 ms
+ 8  po104.psw02.lga3.tfbnw.net (157.240.47.29)  8.885 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  8.111 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  8.711 ms
+ 9  173.252.67.167 (173.252.67.167)  7.503 ms 173.252.67.117 (173.252.67.117)  8.455 ms 173.252.67.3 (173.252.67.3)  14.136 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  7.780 ms  7.418 ms  6.680 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  * * Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  3.823 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  9.141 ms  16.852 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  14.358 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  17.121 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  15.887 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  10.152 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  15.491 ms  16.761 ms  16.684 ms
+ 8  po104.psw04.lga3.tfbnw.net (157.240.47.33)  15.097 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  15.104 ms  13.735 ms
+ 9  173.252.67.129 (173.252.67.129)  13.838 ms 173.252.67.45 (173.252.67.45)  7.561 ms 173.252.67.143 (173.252.67.143)  7.523 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  14.040 ms  14.326 ms  14.248 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  * * Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  6.811 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  15.171 ms  14.217 ms  17.372 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  18.001 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  10.587 ms  18.007 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  21.004 ms  23.611 ms  23.505 ms
+ 8  po104.psw02.lga3.tfbnw.net (157.240.47.29)  21.729 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  6.413 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  13.921 ms
+ 9  173.252.67.57 (173.252.67.57)  13.372 ms 173.252.67.129 (173.252.67.129)  13.091 ms 173.252.67.115 (173.252.67.115)  6.989 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  7.213 ms  6.320 ms  15.119 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  16.499 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  12.436 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  14.930 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  15.965 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  10.328 ms  7.904 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  45.002 ms  24.472 ms  17.877 ms
+ 8  po104.psw01.lga3.tfbnw.net (157.240.47.27)  23.005 ms  12.928 ms  12.729 ms
+ 9  173.252.67.151 (173.252.67.151)  7.789 ms 173.252.67.169 (173.252.67.169)  7.259 ms 173.252.67.87 (173.252.67.87)  15.828 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  15.772 ms  8.527 ms  14.724 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.692 ms  1.970 ms  2.268 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  16.247 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  12.773 ms  14.408 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  15.274 ms  13.909 ms  13.663 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  14.233 ms  13.631 ms  16.209 ms
+ 8  po104.psw01.lga3.tfbnw.net (157.240.47.27)  13.712 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  13.501 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  14.310 ms
+ 9  173.252.67.69 (173.252.67.69)  15.475 ms 173.252.67.11 (173.252.67.11)  13.500 ms 173.252.67.129 (173.252.67.129)  15.212 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  14.557 ms  13.275 ms  12.501 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.451 ms  1.372 ms  1.384 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  14.540 ms  15.564 ms  10.823 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  11.667 ms  16.533 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  17.547 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  18.767 ms  10.418 ms  9.389 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  13.759 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  13.375 ms  9.814 ms
+ 9  173.252.67.9 (173.252.67.9)  8.688 ms 173.252.67.129 (173.252.67.129)  15.165 ms 173.252.67.161 (173.252.67.161)  13.234 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  14.955 ms  6.287 ms  13.308 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  2.018 ms  1.963 ms  1.929 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  7.208 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  9.876 ms  11.473 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  16.809 ms  13.900 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  15.152 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  15.120 ms  11.277 ms  9.768 ms
+ 8  po104.psw01.lga3.tfbnw.net (157.240.47.27)  6.847 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  8.077 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  8.136 ms
+ 9  173.252.67.189 (173.252.67.189)  6.812 ms 173.252.67.169 (173.252.67.169)  7.011 ms 173.252.67.125 (173.252.67.125)  15.495 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  14.650 ms  13.559 ms  7.931 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.480 ms  2.311 ms  2.270 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  9.530 ms  9.457 ms  9.462 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  18.945 ms  16.500 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  16.372 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  17.590 ms  14.588 ms  14.308 ms
+ 8  po104.psw01.lga3.tfbnw.net (157.240.47.27)  10.674 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  7.835 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  7.792 ms
+ 9  173.252.67.139 (173.252.67.139)  15.372 ms 173.252.67.185 (173.252.67.185)  13.034 ms 173.252.67.85 (173.252.67.85)  13.029 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  11.615 ms  9.787 ms  6.749 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  2.126 ms  2.058 ms  2.009 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  11.844 ms  11.754 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  19.393 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  16.332 ms  16.168 ms  16.122 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  16.071 ms  15.324 ms  15.208 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  10.411 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  12.712 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  14.040 ms
+ 9  173.252.67.137 (173.252.67.137)  12.047 ms 173.252.67.139 (173.252.67.139)  13.242 ms 173.252.67.173 (173.252.67.173)  12.680 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  13.250 ms  12.136 ms  8.371 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.099 ms  1.528 ms  1.508 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  7.139 ms  8.694 ms  8.346 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  17.389 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  14.790 ms  14.438 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  17.532 ms  12.683 ms  11.226 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  8.865 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  9.074 ms  8.998 ms
+ 9  173.252.67.167 (173.252.67.167)  8.277 ms 173.252.67.151 (173.252.67.151)  14.097 ms 173.252.67.131 (173.252.67.131)  11.786 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  13.330 ms  12.815 ms  6.695 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.303 ms  1.260 ms  1.232 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  8.056 ms  8.159 ms  8.095 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  17.151 ms  14.533 ms  14.859 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  15.347 ms  10.899 ms  9.700 ms
+ 8  po104.psw02.lga3.tfbnw.net (157.240.47.29)  9.878 ms  9.779 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  9.420 ms
+ 9  173.252.67.55 (173.252.67.55)  16.082 ms 173.252.67.53 (173.252.67.53)  15.609 ms 173.252.67.133 (173.252.67.133)  15.555 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  15.424 ms  12.713 ms  12.402 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  3.779 ms  5.302 ms  5.284 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  19.283 ms  14.981 ms  14.501 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  23.984 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  19.140 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  19.016 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  19.260 ms  9.812 ms  9.385 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  12.585 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  7.266 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  7.203 ms
+ 9  173.252.67.165 (173.252.67.165)  8.082 ms 173.252.67.81 (173.252.67.81)  15.109 ms 173.252.67.35 (173.252.67.35)  13.887 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  15.019 ms  7.941 ms  8.282 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.204 ms  1.162 ms  1.200 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  10.560 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  13.567 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  9.177 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  31.157 ms  28.387 ms  29.051 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  17.333 ms  17.947 ms  16.450 ms
+ 8  po104.psw02.lga3.tfbnw.net (157.240.47.29)  12.284 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  13.985 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  7.024 ms
+ 9  173.252.67.45 (173.252.67.45)  13.670 ms 173.252.67.79 (173.252.67.79)  14.285 ms 173.252.67.145 (173.252.67.145)  11.149 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  10.040 ms  9.536 ms  7.275 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.017 ms  0.953 ms  0.957 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  9.380 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  8.417 ms  10.388 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  17.124 ms  15.300 ms  15.053 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  39.937 ms  33.501 ms  32.692 ms
+ 8  po104.psw04.lga3.tfbnw.net (157.240.47.33)  8.372 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  7.979 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  7.862 ms
+ 9  173.252.67.177 (173.252.67.177)  8.299 ms 173.252.67.191 (173.252.67.191)  15.474 ms 173.252.67.199 (173.252.67.199)  7.698 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  7.431 ms  7.797 ms  8.739 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.069 ms  1.096 ms  4.536 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  14.957 ms  23.033 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  13.966 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  18.422 ms  16.789 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  16.734 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  14.299 ms  10.438 ms  11.051 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  12.477 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  13.654 ms  12.783 ms
+ 9  173.252.67.173 (173.252.67.173)  12.500 ms 173.252.67.19 (173.252.67.19)  9.517 ms 173.252.67.1 (173.252.67.1)  7.744 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  14.688 ms  9.283 ms  7.969 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.018 ms  0.992 ms  1.157 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  13.856 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  16.053 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  18.162 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  13.514 ms  11.217 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  10.513 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  12.253 ms  12.591 ms  8.912 ms
+ 8  po104.psw01.lga3.tfbnw.net (157.240.47.27)  7.603 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  13.454 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  16.004 ms
+ 9  173.252.67.27 (173.252.67.27)  12.154 ms 173.252.67.163 (173.252.67.163)  10.843 ms 173.252.67.3 (173.252.67.3)  7.246 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  13.781 ms  11.585 ms  8.450 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  10.177 ms  12.171 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  12.246 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  22.583 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  12.508 ms  10.483 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  10.418 ms  15.099 ms  15.057 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  12.412 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  13.294 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  7.351 ms
+ 9  173.252.67.59 (173.252.67.59)  16.188 ms 173.252.67.31 (173.252.67.31)  14.573 ms 173.252.67.17 (173.252.67.17)  14.506 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  9.503 ms  15.053 ms  15.013 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  18.810 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  19.198 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  18.710 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  23.519 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  13.237 ms  12.917 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  13.604 ms  9.338 ms  14.920 ms
+ 8  po104.psw02.lga3.tfbnw.net (157.240.47.29)  8.375 ms  15.377 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  15.102 ms
+ 9  173.252.67.23 (173.252.67.23)  13.656 ms 173.252.67.43 (173.252.67.43)  15.533 ms 173.252.67.111 (173.252.67.111)  12.370 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  13.723 ms  6.756 ms  8.985 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.224 ms  1.210 ms  1.166 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  10.505 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  12.753 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  8.163 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  12.563 ms  10.392 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  10.052 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  11.024 ms  14.390 ms  9.637 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  14.508 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  17.702 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  11.591 ms
+ 9  173.252.67.159 (173.252.67.159)  7.180 ms 173.252.67.163 (173.252.67.163)  10.590 ms 173.252.67.25 (173.252.67.25)  5.896 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  11.718 ms  7.941 ms  8.211 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.118 ms  1.056 ms  1.738 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  8.988 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  6.627 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  11.589 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  17.628 ms  15.715 ms  15.589 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  16.810 ms  12.335 ms  13.286 ms
+ 8  po104.psw04.lga3.tfbnw.net (157.240.47.33)  7.321 ms  10.704 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  10.672 ms
+ 9  173.252.67.75 (173.252.67.75)  10.627 ms 173.252.67.93 (173.252.67.93)  6.681 ms 173.252.67.89 (173.252.67.89)  9.404 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  14.327 ms  11.169 ms  7.591 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.002 ms  0.957 ms  1.864 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  9.929 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  11.081 ms  11.074 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  18.076 ms  15.500 ms  15.923 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  16.480 ms  8.893 ms  8.785 ms
+ 8  po104.psw04.lga3.tfbnw.net (157.240.47.33)  7.446 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  8.322 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  7.498 ms
+ 9  173.252.67.161 (173.252.67.161)  7.806 ms 173.252.67.53 (173.252.67.53)  6.971 ms 173.252.67.127 (173.252.67.127)  15.038 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  14.533 ms  14.178 ms  7.688 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.799 ms  1.733 ms  1.685 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  12.281 ms  8.050 ms  8.915 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  16.746 ms  14.260 ms  14.151 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  37.108 ms  31.942 ms  9.775 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  13.514 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  8.729 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  7.954 ms
+ 9  173.252.67.141 (173.252.67.141)  7.172 ms 173.252.67.179 (173.252.67.179)  6.968 ms 173.252.67.197 (173.252.67.197)  7.321 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  6.895 ms  6.973 ms  14.295 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.215 ms  1.153 ms  1.199 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  13.817 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  9.561 ms  13.145 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  17.249 ms  14.934 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  14.409 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  42.869 ms  35.879 ms  68.697 ms
+ 8  po104.psw02.lga3.tfbnw.net (157.240.47.29)  12.183 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  7.254 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  8.546 ms
+ 9  173.252.67.157 (173.252.67.157)  8.481 ms 173.252.67.197 (173.252.67.197)  7.742 ms 173.252.67.105 (173.252.67.105)  6.171 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  16.233 ms  13.846 ms  8.240 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.248 ms  1.642 ms  1.696 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  7.427 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  8.200 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  16.573 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  16.353 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  14.486 ms  15.497 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  16.552 ms  11.368 ms  10.766 ms
+ 8  po104.psw02.lga3.tfbnw.net (157.240.47.29)  8.992 ms  9.553 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  8.552 ms
+ 9  173.252.67.157 (173.252.67.157)  14.635 ms 173.252.67.89 (173.252.67.89)  13.331 ms 173.252.67.5 (173.252.67.5)  13.258 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  14.637 ms  14.870 ms  13.899 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.343 ms  1.298 ms  1.268 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  14.528 ms  14.462 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  8.561 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  34.120 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  14.652 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  32.180 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  16.094 ms  39.595 ms  12.231 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  11.474 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  9.367 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  7.834 ms
+ 9  173.252.67.53 (173.252.67.53)  13.142 ms 173.252.67.135 (173.252.67.135)  13.950 ms 173.252.67.33 (173.252.67.33)  13.719 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  13.861 ms  14.417 ms  13.708 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.196 ms  1.182 ms  1.152 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  14.896 ms  11.893 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  9.554 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  12.068 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  10.442 ms  10.847 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  60.034 ms  11.365 ms  50.507 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  8.135 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  7.726 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  7.282 ms
+ 9  173.252.67.161 (173.252.67.161)  14.438 ms 173.252.67.81 (173.252.67.81)  7.318 ms 173.252.67.65 (173.252.67.65)  7.140 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  8.482 ms  15.702 ms  8.753 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.015 ms  1.067 ms  1.155 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  13.647 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  13.657 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  13.601 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  13.346 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  11.391 ms  11.196 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  25.737 ms  14.477 ms  21.388 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  14.378 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  15.197 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  15.156 ms
+ 9  173.252.67.9 (173.252.67.9)  15.089 ms 173.252.67.69 (173.252.67.69)  8.185 ms 173.252.67.149 (173.252.67.149)  15.037 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  14.908 ms  15.132 ms  14.789 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.415 ms  1.360 ms  1.348 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  9.401 ms  15.403 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  12.107 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  12.676 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  9.718 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  10.838 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  10.973 ms  12.628 ms  9.874 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  9.247 ms  6.742 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  7.340 ms
+ 9  173.252.67.165 (173.252.67.165)  7.973 ms  13.061 ms 173.252.67.21 (173.252.67.21)  9.902 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  7.560 ms  15.051 ms  15.095 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  2.541 ms  3.374 ms  4.014 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  18.382 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  14.930 ms  16.543 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  16.485 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  13.394 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  12.938 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  15.534 ms  10.422 ms  14.119 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  7.075 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  7.774 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  15.755 ms
+ 9  173.252.67.201 (173.252.67.201)  14.457 ms  14.316 ms 173.252.67.69 (173.252.67.69)  8.766 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  7.990 ms  15.078 ms  10.371 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.251 ms  1.282 ms  1.253 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  8.716 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  7.336 ms  7.420 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  17.117 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  14.300 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  14.967 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  14.938 ms  9.860 ms  11.860 ms
+ 8  po104.psw01.lga3.tfbnw.net (157.240.47.27)  10.604 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  7.822 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  14.444 ms
+ 9  173.252.67.35 (173.252.67.35)  14.649 ms 173.252.67.147 (173.252.67.147)  14.631 ms 173.252.67.169 (173.252.67.169)  13.838 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  13.433 ms  13.337 ms  7.065 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.334 ms  1.272 ms  1.205 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  7.884 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  7.917 ms  12.400 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  15.963 ms  13.799 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  12.570 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  16.450 ms  19.220 ms  19.176 ms
+ 8  po104.psw02.lga3.tfbnw.net (157.240.47.29)  13.907 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  11.136 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  14.908 ms
+ 9  173.252.67.81 (173.252.67.81)  14.871 ms 173.252.67.119 (173.252.67.119)  12.116 ms 173.252.67.63 (173.252.67.63)  12.497 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  11.766 ms  11.214 ms  11.953 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  0.991 ms  1.353 ms  1.887 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  9.272 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  13.998 ms  8.940 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  16.701 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  14.638 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  15.153 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  17.124 ms  9.865 ms  9.862 ms
+ 8  po104.psw02.lga3.tfbnw.net (157.240.47.29)  11.977 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  8.268 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  7.704 ms
+ 9  173.252.67.21 (173.252.67.21)  9.071 ms 173.252.67.81 (173.252.67.81)  13.008 ms 173.252.67.59 (173.252.67.59)  14.013 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  13.597 ms  7.210 ms  6.861 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.149 ms  1.150 ms  1.094 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  13.482 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  11.001 ms  10.538 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  12.352 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  9.168 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  10.029 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  19.029 ms  10.094 ms  10.275 ms
+ 8  po104.psw04.lga3.tfbnw.net (157.240.47.33)  9.237 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  8.778 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  8.142 ms
+ 9  173.252.67.147 (173.252.67.147)  12.861 ms 173.252.67.201 (173.252.67.201)  14.222 ms 173.252.67.31 (173.252.67.31)  13.857 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  13.811 ms  12.980 ms  14.009 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  2.342 ms  3.277 ms  3.260 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  17.532 ms  16.382 ms  22.168 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  16.592 ms  13.237 ms  12.736 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  27.459 ms  15.369 ms  13.752 ms
+ 8  po104.psw04.lga3.tfbnw.net (157.240.47.33)  10.582 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  9.094 ms  8.581 ms
+ 9  173.252.67.97 (173.252.67.97)  9.877 ms 173.252.67.57 (173.252.67.57)  8.071 ms 173.252.67.11 (173.252.67.11)  13.528 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  12.738 ms  10.366 ms  9.844 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.972 ms  1.910 ms  3.152 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  7.780 ms  11.236 ms  20.852 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  17.749 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  17.143 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  15.016 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  16.977 ms  12.658 ms  8.807 ms
+ 8  po104.psw03.lga3.tfbnw.net (157.240.47.31)  9.927 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  9.048 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  14.986 ms
+ 9  173.252.67.187 (173.252.67.187)  14.946 ms 173.252.67.111 (173.252.67.111)  13.686 ms 173.252.67.55 (173.252.67.55)  14.649 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  14.055 ms  8.063 ms  6.141 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.006 ms  0.969 ms  1.928 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  12.740 ms  9.780 ms  9.780 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  18.406 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  16.924 ms  16.595 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  18.469 ms  9.802 ms  10.797 ms
+ 8  po104.psw01.lga3.tfbnw.net (157.240.47.27)  7.584 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  7.460 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  9.104 ms
+ 9  173.252.67.17 (173.252.67.17)  8.842 ms 173.252.67.119 (173.252.67.119)  7.943 ms 173.252.67.31 (173.252.67.31)  14.579 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  15.413 ms  15.336 ms  9.793 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  2.499 ms  2.447 ms  4.451 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  16.195 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  16.347 ms  22.700 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  18.492 ms  14.947 ms  14.835 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  18.297 ms  11.386 ms  11.236 ms
+ 8  po104.psw01.lga3.tfbnw.net (157.240.47.27)  8.256 ms po104.psw03.lga3.tfbnw.net (157.240.47.31)  7.477 ms po104.psw04.lga3.tfbnw.net (157.240.47.33)  14.381 ms
+ 9  173.252.67.113 (173.252.67.113)  11.126 ms 173.252.67.105 (173.252.67.105)  11.861 ms 173.252.67.177 (173.252.67.177)  6.124 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  22.309 ms  12.705 ms  21.606 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  2.004 ms  2.628 ms  2.622 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  16.720 ms  16.655 ms  16.661 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  16.431 ms  12.768 ms  12.440 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  14.638 ms  8.944 ms  8.877 ms
+ 8  po104.psw04.lga3.tfbnw.net (157.240.47.33)  7.107 ms po104.psw02.lga3.tfbnw.net (157.240.47.29)  15.104 ms  9.202 ms
+ 9  173.252.67.139 (173.252.67.139)  9.495 ms 173.252.67.45 (173.252.67.45)  14.382 ms 173.252.67.159 (173.252.67.159)  13.735 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  12.782 ms  13.267 ms  7.120 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  * Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  4.036 ms  4.031 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  18.172 ms B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  18.033 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  18.112 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  17.785 ms  14.021 ms  13.946 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  12.172 ms  12.205 ms  12.000 ms
+ 8  po104.psw04.lga3.tfbnw.net (157.240.47.33)  12.472 ms  11.369 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  13.382 ms
+ 9  173.252.67.45 (173.252.67.45)  10.744 ms 173.252.67.175 (173.252.67.175)  7.914 ms 173.252.67.35 (173.252.67.35)  6.701 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  16.332 ms  21.343 ms  22.125 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  * Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  4.217 ms  4.203 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  17.328 ms  12.526 ms  11.976 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  77.183 ms  73.126 ms  73.237 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  40.546 ms  40.025 ms  47.795 ms
+ 8  po104.psw02.lga3.tfbnw.net (157.240.47.29)  8.816 ms po104.psw01.lga3.tfbnw.net (157.240.47.27)  64.359 ms *
+ 9  173.252.67.21 (173.252.67.21)  68.745 ms 173.252.67.189 (173.252.67.189)  9.067 ms 173.252.67.167 (173.252.67.167)  67.220 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  56.748 ms  56.670 ms  56.677 ms
+traceroute to www.instagram.com (31.13.71.174), 30 hops max, 60 byte packets
+ 1  Fios_Quantum_Gateway.fios-router.home (192.168.1.1)  1.498 ms  1.445 ms  1.392 ms
+ 2  * * *
+ 3  B3307.NWRKNJ-LCR-21.verizon-gni.net (100.41.206.8)  7.869 ms  7.176 ms B3307.NWRKNJ-LCR-22.verizon-gni.net (100.41.206.6)  8.367 ms
+ 4  * * *
+ 5  * * *
+ 6  0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  16.724 ms 0.ae4.GW17.NYC4.ALTER.NET (140.222.1.137)  14.211 ms 0.ae3.GW17.NYC4.ALTER.NET (140.222.1.135)  14.973 ms
+ 7  fb-gw.customer.alter.net (152.179.137.34)  16.429 ms  11.651 ms  11.203 ms
+ 8  po104.psw04.lga3.tfbnw.net (157.240.47.33)  10.459 ms  9.370 ms  9.525 ms
+ 9  173.252.67.145 (173.252.67.145)  9.355 ms 173.252.67.131 (173.252.67.131)  6.084 ms 173.252.67.119 (173.252.67.119)  14.045 ms
+10  instagram-p42-shv-01-lga3.fbcdn.net (31.13.71.174)  14.082 ms  14.738 ms  8.643 ms
