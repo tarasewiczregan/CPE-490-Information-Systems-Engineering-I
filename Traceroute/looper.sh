@@ -1,7 +1,7 @@
 for((i = 0; i < 72 ; i++))
 do
-traceroute www.instagram.com >> rawData
 echo "Round $i"
+traceroute www.instagram.com >> rawData
 sleep 300s
 done
 
