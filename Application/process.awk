@@ -10,10 +10,8 @@ BEGIN {
 		}
 		else if ((q == 0) && ($1 == "ANSWER")) {
 			q = 1
-			if (miss != 0) {
-				print(miss)
-				miss = 0
-			}
+			print(miss)
+			miss = 0
 		}
 		else {
 			q = 0
