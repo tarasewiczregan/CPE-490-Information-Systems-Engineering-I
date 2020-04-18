@@ -1,0 +1,6 @@
+Assignment 2
+
+-use traceroute to understand the long term behaviour of IP reachability to a remote destination
+-write a shell script that is able to traceroute a destination of your choice for 6 hours (or more), at an interval of 5 minutes each
+-parse through the data collected using an "awk" script; simply extract all delay values from the log; write this data to a new file so it is plot ready
+-create a CDF plot; x-axis is delay (in milliseconds) and y-axis is probability (0-1)

@@ -1,0 +1,6 @@
+Assignment 3
+
+-chart out TCP's estimation of true latency to a remote destination; true latency cannot be measured, only estimated; TCP uses an exponentially weighted moving average (EWMA) with 'alpha' set to 0.875 to estimate RTT and set its timeout-timer
+-ping a remote destination for at least 10,000 times and record the delay values ina single column in a file
+-use the EWMA formula to calculate the next RTT based on the current measured RTT and the past history
+plot raw latency and the estimated latency in one plot

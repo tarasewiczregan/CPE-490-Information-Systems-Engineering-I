@@ -1,0 +1,6 @@
+Assignment 4
+
+-snoop the local DNS cache of your Internet provider and paint a picture of the relative popularity of three domains of your choice; pick Google as one of the domains
+-perform a 'dig' with norecurse flas every second for 24 hours for all three domains; record this raw data in three separate files
+-clean the data and look for cache-hits and misses; when a miss occurs (no 'ANSWER'), start counting the number of seconds until the next hit; this gives you a measure of the gap from the cache; write this into a file and keep recording all incidences of gaps and how long they were for; record zero gaps as well
+-plot a cdf with these gap values, one line for for each domain probed

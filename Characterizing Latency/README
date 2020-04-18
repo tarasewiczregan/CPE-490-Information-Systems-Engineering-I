@@ -1,0 +1,5 @@
+Assignment 1
+
+-"ping" a remote destination for 3 hours at a granularity of 1 ping/sec, and present a cumulative distribution function (CDF) of observed latnecy
+-pick a far-off destination (at least 1000+ miles)
+-avoid destinations that are content-delivery enabled (non CDN servers)
